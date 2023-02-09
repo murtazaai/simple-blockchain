@@ -19,11 +19,11 @@ fn main() {
             inputs: vec![],
             outputs: vec![
                 transaction::Output {
-                    to_addr: "Bob".to_owned(),
+                    to_addr: "Angel".to_owned(),
                     value: 50,
                 },
                 transaction::Output {
-                    to_addr: "Charlie".to_owned(),
+                    to_addr: "Daemon".to_owned(),
                     value: 100,
                 },
             ],
